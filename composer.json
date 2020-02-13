@@ -1,6 +1,6 @@
 {
     "name": "emadello/validations",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "description": "Some useful validations to build PHP websites",
     "keywords": ["validations","cp","backend"],
@@ -13,5 +13,8 @@
             "homepage": "https://www.emadmhossam.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+      "psr-0": {"Emadello": "src/"}
+    }
 }

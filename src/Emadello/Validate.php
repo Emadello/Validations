@@ -1,8 +1,8 @@
 <?php
 
-namespace Emadello\Validations;
+namespace Emadello;
 
-class validate {
+class Validate {
 
   public function __construct() {
   }
