@@ -1,5 +1,6 @@
 {
     "name": "emadello/validations",
+    "version": "1.0.0",
     "type": "library",
     "description": "Some useful validations to build PHP websites",
     "keywords": ["validations","cp","backend"],
